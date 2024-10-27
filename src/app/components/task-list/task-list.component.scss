@@ -1,0 +1,15 @@
+.task-list-container {
+  position: relative;
+  min-height: 200px;
+
+  .task-list-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .search-field {
+    width: 300px;
+  }
+}
